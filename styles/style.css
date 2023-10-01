@@ -1,0 +1,17 @@
+@import url(reset.css);
+
+/* IMPORTAR LAS VARIABLES ANTES DEL NAVBAR */
+
+@import url(variables.css);
+
+/* EL IMPORT DEL NAVBAR DESPUES DEL IMPORT DE LAS VARIABLES, ASI LAS RECONOCE,NUNCA DESPUES*/
+
+@import url(navbar.css);
+
+@import url(hero.css);
+
+@import url(features.css);
+
+@import url(contact.css);
+
+@import url(footer.css);
